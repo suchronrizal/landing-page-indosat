@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="36px" viewBox="0 0 30 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ico_simcard_2</title>
+    <defs>
+        <path d="M4.8,0 L18.2545455,0 C19.6513499,0 20.9788697,0.608446594 21.8907004,1.66657102 L28.8361549,9.72635124 C29.5869918,10.5976521 30,11.7095971 30,12.8597802 L30,31.2 C30,33.8509668 27.8509668,36 25.2,36 L4.8,36 C2.1490332,36 0,33.8509668 0,31.2 L0,4.8 C0,2.1490332 2.1490332,0 4.8,0 Z" id="path-1"></path>
+    </defs>
+    <g id="IDLE-MESSAGE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop/Landing_nation_wide" transform="translate(-573.000000, -1244.000000)">
+            <g id="sejarah-kami-copy-3" transform="translate(0.000000, 968.000000)">
+                <g id="Group-4" transform="translate(130.000000, 76.000000)">
+                    <g id="list_feature-copy" transform="translate(412.000000, 172.000000)">
+                        <g id="Group" transform="translate(31.000000, 28.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Rectangle" fill="#ED1C24" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            <g id="Group-7" mask="url(#mask-2)">
+                                <g transform="translate(8.000000, 14.000000)">
+                                    <rect id="Rectangle-2" fill="#FF979C" fill-rule="nonzero" x="2.8" y="1.2" width="14.4" height="13.8" rx="1.104"></rect>
+                                    <g id="Group-2" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.400000, 0.546667)">
+                                        <g id="Group-5" fill="#ED1C24" fill-rule="nonzero">
+                                            <g id="Group-6" transform="translate(2.000000, 0.000000)">
+                                                <polygon id="Rectangle-3" points="0 4.53333333 15 4.53333333 15 5.44 0 5.44"></polygon>
+                                                <polygon id="Rectangle-3" points="5.44 0 5.44 4.53333333 4.53333333 4.53333333 4.53333333 1.67767035e-16"></polygon>
+                                                <polygon id="Rectangle-3" points="10.88 0 10.88 4.53333333 9.97333333 4.53333333 9.97333333 1.67767035e-16"></polygon>
+                                                <polygon id="Rectangle-3" points="3.264 0.181333333 3.264 4.71466667 2.35733333 4.71466667 2.35733333 0.181333333"></polygon>
+                                            </g>
+                                            <g id="Group-6" transform="translate(8.904348, 11.158841) scale(-1, -1) translate(-8.904348, -11.158841) translate(0.208696, 6.811014)">
+                                                <polygon id="Rectangle-3" points="0 5.53333333 16.7272334 5.53333333 16.7272334 6.44 0 6.44"></polygon>
+                                                <polygon id="Rectangle-3" points="7.44 1 7.44 5.53333333 6.53333333 5.53333333 6.53333333 1"></polygon>
+                                                <polygon id="Rectangle-3" points="12.88 1 12.88 5.53333333 11.9733333 5.53333333 11.9733333 1"></polygon>
+                                                <polygon id="Rectangle-3" points="5.264 2.84217094e-14 5.264 5.71466667 4.35733333 5.71466667 4.35733333 2.86331946e-14"></polygon>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

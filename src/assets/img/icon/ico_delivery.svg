@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="41px" viewBox="0 0 41 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ico_delivery</title>
+    <defs>
+        <path d="M3.649536,0 L13.879296,0 C14.9413143,0 15.9506542,0.45560481 16.6439373,1.24792838 L21.9247053,7.28309181 C22.4955816,7.93552186 22.8096,8.76814633 22.8096,9.62940343 L22.8096,23.36256 C22.8096,25.3476039 21.1756471,26.9568 19.160064,26.9568 L3.649536,26.9568 C1.63395292,26.9568 0,25.3476039 0,23.36256 L0,3.59424 C0,1.60919606 1.63395292,0 3.649536,0 Z" id="path-1"></path>
+    </defs>
+    <g id="IDLE-MESSAGE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop/Landing_nation_wide" transform="translate(-156.000000, -1241.000000)">
+            <g id="sejarah-kami-copy-3" transform="translate(0.000000, 968.000000)">
+                <g id="Group-4" transform="translate(130.000000, 76.000000)">
+                    <g id="Icon/Corporate/ico_trust" transform="translate(0.000000, 172.000000)">
+                        <rect id="Rectangle" x="26" y="26" width="40" height="40"></rect>
+                        <g id="Group-3" transform="translate(26.000000, 25.000000)">
+                            <polygon id="Rectangle" fill="#F2CFA8" points="27.1538462 12 41 12 36.8461538 18 23 18"></polygon>
+                            <g id="Group" transform="translate(10.206400, 0.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Rectangle" fill="#ED1C24" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                <g id="Group-7" mask="url(#mask-2)">
+                                    <g transform="translate(5.525440, 11.232000)">
+                                        <rect id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero" x="1.925696" y="0.89856" width="10.948608" height="10.33344" rx="1.1446272"></rect>
+                                        <g id="Group-2" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.304128, 0.409344)">
+                                            <g id="Group-5" fill="#ED1C24" fill-rule="nonzero">
+                                                <g id="Group-6" transform="translate(1.317440, 0.000000)">
+                                                    <polygon id="Rectangle-3" points="0 3.39456 11.4048 3.39456 11.4048 4.073472 0 4.073472"></polygon>
+                                                    <polygon id="Rectangle-3" points="4.1361408 0 4.1361408 3.39456 3.446784 3.39456 3.446784 1.25623956e-16"></polygon>
+                                                    <polygon id="Rectangle-3" points="8.2722816 0 8.2722816 3.39456 7.5829248 3.39456 7.5829248 1.25623956e-16"></polygon>
+                                                    <polygon id="Rectangle-3" points="2.48168448 0.1357824 2.48168448 3.5303424 1.79232768 3.5303424 1.79232768 0.1357824"></polygon>
+                                                </g>
+                                                <g id="Group-6" transform="translate(6.656693, 8.350522) scale(-1, -1) translate(-6.656693, -8.350522) translate(0.134954, 5.089653)">
+                                                    <polygon id="Rectangle-3" points="0 4.14336 12.7180501 4.14336 12.7180501 4.822272 0 4.822272"></polygon>
+                                                    <polygon id="Rectangle-3" points="5.6567808 0.7488 5.6567808 4.14336 4.967424 4.14336 4.967424 0.7488"></polygon>
+                                                    <polygon id="Rectangle-3" points="9.7929216 0.7488 9.7929216 4.14336 9.1035648 4.14336 9.1035648 0.7488"></polygon>
+                                                    <polygon id="Rectangle-3" points="4.00232448 2.94676283e-14 4.00232448 4.2791424 3.31296768 4.2791424 3.31296768 2.96259884e-14"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect id="Rectangle" fill="#E3BD93" x="4.6768" y="17.9712" width="32" height="23"></rect>
+                            <rect id="Rectangle" fill="#F2CFA8" x="4" y="17.9712" width="14" height="23"></rect>
+                            <polygon id="Rectangle" fill="#F2CFA8" points="5.014128e-12 12 13.8461538 12 18 18 4.15384615 18"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
